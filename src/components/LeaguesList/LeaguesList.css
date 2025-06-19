@@ -1,0 +1,13 @@
+.leagues-header {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+.leagues-search {
+  width: 300px;
+}
+
+.label {
+  margin-right: 10px;
+}
